@@ -169,11 +169,6 @@ export default function Hero(){
           <h3>4+</h3>
           <p>Nigerian Cities</p>
         </div>
-
-        <div className="stat-item">
-          <h3>2</h3>
-          <p>Ways to Find</p>
-        </div>
       </section>
 
 
