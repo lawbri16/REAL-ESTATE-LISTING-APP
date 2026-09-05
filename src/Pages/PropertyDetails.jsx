@@ -40,7 +40,7 @@ export default function PropertyDetails({ properties }) {
 
             <div className="property-details-price">
               <h2>₦{property.price.toLocaleString()}</h2>
-        
+             
             </div>
           </div>
 
