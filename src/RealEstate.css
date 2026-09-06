@@ -541,6 +541,8 @@ font-weight: 700;
 @media (max-width: 600px) {
   .property-space {
     grid-template-columns: 1fr;
+      padding: 3px 3px;
+
   }
 }
 
@@ -750,6 +752,10 @@ color:#667085;
   gap: 15px;
   padding: 20px 0;
   border-bottom: 1px solid #e5e7eb;
+}
+.property-info span{
+display: flex;
+justify-content: center;
 }
 
   .property-details-container {
